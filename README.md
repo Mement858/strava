@@ -84,5 +84,5 @@ if __name__ == "__main__":
 
 
 
-## 6. execute the below
+## 6. run the code
 ```python gpx.py```
